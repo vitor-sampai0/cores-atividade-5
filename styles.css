@@ -1,0 +1,71 @@
+.vermelho-1 {
+background-color: red;
+height: 20vh;
+width: 100rem;
+}
+
+.vermelho-2 {
+background-color: red;
+height: 20vh;
+width: 30rem;
+}
+
+.container-vremelho {
+    display: flex;
+    gap: 2rem;
+}
+
+.amarelo {
+background-color: rgb(199, 199, 31);
+height: 42rem;
+width: 50rem;
+}
+
+.roxo-1 {
+background-color: purple;
+height: 20rem;
+width: 70rem;
+}
+
+.roxo-2 {
+background-color: purple;
+height: 20rem;
+width: 70rem;
+}
+
+.container-amarelo-roxo {
+    display: flex;
+    gap: 1rem;
+    row-gap: 2rem;
+    margin-top: 20px;
+}
+
+.container-roxo {
+    display: flex;
+    gap: 2rem;
+    flex-direction: column;
+}
+
+.azul-1 {
+background-color: blue;
+height: 10rem;
+width: 25rem;
+}
+
+.azul-2 {
+background-color: blue;
+height: 10rem;
+width: 70rem;
+}
+
+.azul-3 {
+background-color: blue;
+height: 10rem;
+width: 25rem;
+}
+
+.container-azul {
+    display: flex; 
+    gap: 2rem;
+    margin-top: 20px;
+}
